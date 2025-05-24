@@ -77,3 +77,6 @@ Choosing specific technologies within your domain based on interest and domain f
 
 * **Complete:** Study all four levels for a robust and adaptable career.  
 * **Quick Job:** Focus on the first foundational level and then technology/domain. *It's very important to return to the second and third levels after getting a job.*
+
+## Sources
+- How to start programming in AI age by Mohmmed Moshrif: [link](https://www.youtube.com/watch?v=SH4cG10zpJY)
