@@ -80,3 +80,6 @@ Choosing specific technologies within your domain based on interest and domain f
 
 ## Sources
 - How to start programming in AI age by Mohmmed Moshrif: [link](https://www.youtube.com/watch?v=SH4cG10zpJY)
+
+## Credit
+- Mohamed Moshrif: [Linkedin](https://www.linkedin.com/in/mmeshref/)
